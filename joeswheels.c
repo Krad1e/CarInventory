@@ -1,7 +1,4 @@
 //Alex Brousse
-//atbhz7
-//CS1050 
-//Homework 3
 
 #include <stdio.h>
 #include <stdlib.h>
